@@ -1,3 +1,3 @@
 # infl-spr-security
 
-- git push test
+- git config test eastmeet
